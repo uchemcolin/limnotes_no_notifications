@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The Android version of the LimNotes app
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
